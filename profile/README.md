@@ -11,7 +11,7 @@ Three brands, one company.
 | --- | --- | --- |
 | **Skull Solutions** | [skullsolutions.com](https://skullsolutions.com) | IT services, software engineering, infrastructure, consulting. |
 | **SkullSploit** | [skullsploit.com](https://skullsploit.com) | Offensive security: web application, API, authentication and business logic testing. |
-| **SkullEdu** | — | Online tuition and instructor-led technical education. |
+| **SkullEdu** | [skulledu.com](https://skulledu.com) | Online tuition and instructor-led technical education. |
 
 ---
 
